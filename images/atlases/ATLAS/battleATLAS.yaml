@@ -1,0 +1,12 @@
+img/system/BattleCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 292, 'y': 480, width: 360, height: 80}}
+img/system/BattleCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 131, width: 360, height: 80}}
+img/system/BattleCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 213, width: 360, height: 80}}
+img/system/bsRedHands.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 192, height: 128}, sourceRect: {x: 654, 'y': 1, width: 192, height: 128}}
+img/system/energy_dw_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 289, height: 337}, sourceRect: {x: 363, 'y': 1, width: 289, height: 337}}
+img/system/energy_stress_ekg_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 289, height: 337}, sourceRect: {x: 1, 'y': 229, width: 289, height: 337}}
+img/system/PartyCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 295, width: 360, height: 80}}
+img/system/PartyCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 377, width: 360, height: 80}}
+img/system/PartyCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 459, width: 360, height: 80}}
+img/system/PartyCommands_FinalBattle.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 80}, sourceRect: {x: 654, 'y': 541, width: 360, height: 80}}
+img/system/StressBar_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 138}, sourceRect: {x: 292, 'y': 340, width: 360, height: 138}}
+img/system/StressBar_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 226}, sourceRect: {x: 1, 'y': 1, width: 360, height: 226}}

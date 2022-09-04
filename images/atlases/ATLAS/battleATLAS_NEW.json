@@ -1,0 +1,116 @@
+{"frames": {
+
+"BattleCommands_BlackSpace.png":
+{
+	"frame": {"x":654,"y":339,"w":356,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":110},
+	"sourceSize": {"w":356,"h":110}
+},
+"BattleCommands_DreamWorld.png":
+{
+	"frame": {"x":654,"y":451,"w":356,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":110},
+	"sourceSize": {"w":356,"h":110}
+},
+"BattleCommands_Faraway.png":
+{
+	"frame": {"x":654,"y":563,"w":356,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":110},
+	"sourceSize": {"w":356,"h":110}
+},
+"bsRedHands.png":
+{
+	"frame": {"x":363,"y":671,"w":186,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":21,"w":186,"h":88},
+	"sourceSize": {"w":192,"h":128}
+},
+"energy_dw_line.png":
+{
+	"frame": {"x":725,"y":1,"w":289,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":289,"h":294},
+	"sourceSize": {"w":289,"h":337}
+},
+"energy_stress_ekg_line.png":
+{
+	"frame": {"x":1,"y":339,"w":289,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":289,"h":325},
+	"sourceSize": {"w":289,"h":337}
+},
+"party_command.png":
+{
+	"frame": {"x":292,"y":561,"w":360,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":108},
+	"sourceSize": {"w":360,"h":108}
+},
+"party_command_boss.png":
+{
+	"frame": {"x":1,"y":671,"w":360,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":108},
+	"sourceSize": {"w":360,"h":108}
+},
+"PartyCommands_DreamWorld.png":
+{
+	"frame": {"x":363,"y":227,"w":360,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":110},
+	"sourceSize": {"w":360,"h":110}
+},
+"PartyCommands_Faraway.png":
+{
+	"frame": {"x":292,"y":339,"w":360,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":110},
+	"sourceSize": {"w":360,"h":110}
+},
+"PartyCommands_FinalBattle.png":
+{
+	"frame": {"x":292,"y":451,"w":360,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":108},
+	"sourceSize": {"w":360,"h":108}
+},
+"StressBar_BlackSpace.png":
+{
+	"frame": {"x":363,"y":1,"w":360,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":224},
+	"sourceSize": {"w":360,"h":224}
+},
+"StressBar_DreamWorld.png":
+{
+	"frame": {"x":1,"y":1,"w":360,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":336},
+	"sourceSize": {"w":360,"h":336}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "battleAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1015,"h":780},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:82e616b80b1cdb789f3d1bd6d3e36413:61d3eae34b6acac2c05d53124b5b5942:9560f8054697201c23ec6c664f851b93$"
+}
+}

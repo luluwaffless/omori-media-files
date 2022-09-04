@@ -1,0 +1,13 @@
+img/system/BattleCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 356, height: 110}, sourceRect: {x: 654, 'y': 339, width: 356, height: 110}}
+img/system/BattleCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 356, height: 110}, sourceRect: {x: 654, 'y': 451, width: 356, height: 110}}
+img/system/BattleCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 356, height: 110}, sourceRect: {x: 654, 'y': 563, width: 356, height: 110}}
+img/system/bsRedHands.png: {atlasName: battleATLAS, rect: {x: 3, 'y': 21, width: 192, height: 128}, sourceRect: {x: 363, 'y': 673, width: 186, height: 88}}
+img/system/energy_dw_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 12, width: 289, height: 337}, sourceRect: {x: 725, 'y': 1, width: 289, height: 294}}
+img/system/energy_stress_ekg_line.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 12, width: 289, height: 337}, sourceRect: {x: 1, 'y': 339, width: 289, height: 325}}
+img/system/party_command2.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 108}, sourceRect: {x: 1, 'y': 673, width: 360, height: 108}}
+img/system/PartyCommands_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 110}, sourceRect: {x: 363, 'y': 227, width: 360, height: 110}}
+img/system/PartyCommands_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 110}, sourceRect: {x: 292, 'y': 339, width: 360, height: 110}}
+img/system/PartyCommands_Faraway.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 110}, sourceRect: {x: 292, 'y': 451, width: 360, height: 110}}
+img/system/PartyCommands_FinalBattle.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 108}, sourceRect: {x: 292, 'y': 563, width: 360, height: 108}}
+img/system/StressBar_BlackSpace.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 224}, sourceRect: {x: 363, 'y': 1, width: 360, height: 224}}
+img/system/StressBar_DreamWorld.png: {atlasName: battleATLAS, rect: {x: 0, 'y': 0, width: 360, height: 336}, sourceRect: {x: 1, 'y': 1, width: 360, height: 336}}
