@@ -4,3 +4,6 @@ If you're too lazy to decript OMORI's files or just don't own OMORI, this reposi
 ⚠ ***NOTHING IS OWNED/MADE BY ME! ALL CREDITS GO TO [OMOCAT](https://www.twitter.com/_omocat)!*** ⚠
 
 Buy [OMORI](https://www.omori-game.com) here: https://store.steampowered.com/agecheck/app/1150690/
+
+# Resources
+- [OMORI Audio Resource Index](https://docs.google.com/spreadsheets/d/1K-umUDEsxbIlxnhmtlzh_Rg42zr_zKGPNZO2UJXn-dE/)
